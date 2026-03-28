@@ -23,17 +23,20 @@ El proyecto está desplegado íntegramente en AWS utilizando un modelo de Data L
 
 ```text
  aurora-tickets-bigdata
+ ┣  infraestructura    
+ ┃ ┣ ec2_setup.sh         
+ ┃ ┗  init_db.sql         
  ┣  src                    
  ┃ ┣  job1_curation.py     
  ┃ ┗  job2_analytics.py    
- ┣  docs                   
+ ┣  docs                 
  ┃ ┣  CRISPDM_1_Business.md
  ┃ ┣  CRISPDM_2_Data.md
  ┃ ┣  CRISPDM_3_Prep.md
  ┃ ┣  CRISPDM_4_Modeling.md
  ┃ ┣  CRISPDM_5_Evaluation.md
  ┃ ┗  CRISPDM_6_Deployment.md
- ┣  evidence               
+ ┣  evidence              
  ┃ ┗  ...
  ┗  README.md
 ```
