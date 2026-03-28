@@ -17,7 +17,7 @@ El proyecto está desplegado íntegramente en AWS utilizando un modelo de Data L
 * **Almacenamiento Analítico:** Amazon RDS (MySQL).
 * **Visualización:** CloudWatch Dashboard operativo en tiempo real.
 
-![Arquitectura Aurora](evidence/imagen_Estructural_Aurora.png)
+![Arquitectura Aurora](evidence/image16.png)
 
 ##  Estructura del Repositorio
 
